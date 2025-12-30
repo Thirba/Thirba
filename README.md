@@ -14,13 +14,24 @@
 
 <br/>
 
-## What I do
-- Built Windows tools + small automation utilities
-- Reverse engineering with IDA Pro + x64dbg
-- Front-end + back-end projects, basic hosting/networking
-- PostgreSQL: hosting, maintaining, troubleshooting
-- Clean bug reports adopted by Discord, Spotify, SoundCloud, Reddit, DistroKid
-- Google IT Support Certificate (Coursera, Nov 2025)
+## Technical Highlights
+- Google IT Support Certificate — Coursera (Nov 2025)
+- Built Windows utilities in VS Code & Visual Studio
+- Shipped clean front-end sites and small backend tools
+- Reverse engineering with IDA Pro & x64dbg
+- PostgreSQL: hosting, maintenance, recovery, hygiene
+- Bug reports adopted by Discord, Spotify, SoundCloud, Reddit & DistroKid
+- Active GitHub dev with real shipped projects
+- Music production, audio tooling & workflow optimization
+
+## What I work with
+- IT: hardware, software, networking, troubleshooting
+- Web: HTML, CSS, JS, frontend & backend debugging
+- Servers: hosting, maintenance, break/fix, automation
+- Databases: PostgreSQL, data cleanup, performance issues
+- Code: Python, JavaScript, C++, C#, Rust
+- Reverse engineering & payload analysis (white-hat only)
+- EDR security: endpoint monitoring, threat analysis, response tooling
 
 <br/>
 
