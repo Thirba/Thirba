@@ -35,29 +35,3 @@
 </p>
 
 <br/>
-
-## Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=thirba&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&cache_seconds=1800"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirba&layout=compact&hide_border=true&theme=transparent&cache_seconds=1800"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=thirba&hide_border=true&theme=transparent"
-    height="170"
-  />
-</p>
-
-<br/>
-
-## Contribution snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thirba/thirba/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
