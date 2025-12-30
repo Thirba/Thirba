@@ -35,8 +35,6 @@
 </p>
 
 <br/>
-### Contribution snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/thirba/thirba/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
