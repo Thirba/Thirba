@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thirba 👋</h1>
 
 <p align="center">
-  <b>Entry-level IT • Windows utilities • Reverse engineering • Full-stack</b>
+  <b>Information Technology • Tools • Reverse engineering • Fullstack</b>
 </p>
 
 <p align="center">
