@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Thirba 👋</h1>
+<h1 align="center">Hi, I'm Alex 👋</h1>
 
 <p align="center">
   <b>Information Technology • Tools • Reverse Engineering • Cyber Security • Fullstack</b>
