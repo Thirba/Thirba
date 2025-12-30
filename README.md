@@ -1,40 +1,63 @@
 <h1 align="center">Hi, I'm Thirba 👋</h1>
 
 <p align="center">
-  <b>Full-stack developer • Reverse engineering • Windows utilities</b>
+  <b>Entry-level IT • Windows utilities • Reverse engineering • Full-stack</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thirba&style=flat&color=0d1117&label=profile+views" />
+  <a href="mailto:ajf06work@gmail.com">ajf06work@gmail.com</a> • Tacoma, WA
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thirba&style=flat&color=111827&label=views" />
+</p>
 
-### When I code, I rely on
+<br/>
 
+## What I do
+- Built Windows tools + small automation utilities
+- Reverse engineering with IDA Pro + x64dbg
+- Front-end + back-end projects, basic hosting/networking
+- PostgreSQL: hosting, maintaining, troubleshooting
+- Clean bug reports adopted by Discord, Spotify, SoundCloud, Reddit, DistroKid
+- Google IT Support Certificate (Coursera, Nov 2025)
+
+<br/>
+
+## Stack
 <p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-0d1117?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0b0f16?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0b0f16?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-0b0f16?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-0b0f16?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0b0f16?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0b0f16?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
----
+<br/>
 
-### GitHub stats
+## Stats
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=thirba&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&cache_seconds=1800"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirba&layout=compact&hide_border=true&theme=transparent&cache_seconds=1800"
+    height="165"
+  />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thirba&show_icons=true&theme=dark&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=thirba&hide_border=true&theme=transparent"
+    height="170"
+  />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thirba&theme=dark&hide_border=true" />
-</p>
+<br/>
 
----
-
-### Contribution snake
-
+## Contribution snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/thirba/thirba/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
