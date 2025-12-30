@@ -20,8 +20,7 @@
 - Servers: hosting, maintenance, break/fix, automation
 - Databases: PostgreSQL, data cleanup, performance issues
 - Code: Python, JavaScript, C++, C#, Rust
-- Reverse engineering & payload analysis (white-hat only)
-- EDR security: endpoint monitoring, threat analysis, response tooling
+- Reverse engineering & payload analysis (whitehat only)
 
 <br/>
 
