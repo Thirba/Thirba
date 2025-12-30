@@ -14,16 +14,6 @@
 
 <br/>
 
-## Technical Highlights
-- Google IT Support Certificate — Coursera (Nov 2025)
-- Built Windows utilities in VS Code & Visual Studio
-- Shipped clean front-end sites and small backend tools
-- Reverse engineering with IDA Pro & x64dbg
-- PostgreSQL: hosting, maintenance, recovery, hygiene
-- Bug reports adopted by Discord, Spotify, SoundCloud, Reddit & DistroKid
-- Active GitHub dev with real shipped projects
-- Music production, audio tooling & workflow optimization
-
 ## What I work with
 - IT: hardware, software, networking, troubleshooting
 - Web: HTML, CSS, JS, frontend & backend debugging
