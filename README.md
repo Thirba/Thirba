@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ajf06work@gmail.com">ajf06work@gmail.com</a> • Tacoma, WA
+  <a href="mailto:ssy@outlook.com">ssy@outlook.com</a> • Tacoma, WA
 </p>
 
 <p align="center">
